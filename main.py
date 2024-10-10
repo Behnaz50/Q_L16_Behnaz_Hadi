@@ -189,6 +189,7 @@ print('train_score :',train_score)
 # By increasing the max_depth, the train score is increased.
 #-------------------------------------------------------------------------------------------#  
 
+According on the given results, the Forest Random algorithm produces the best outcomes.
 
 
 
