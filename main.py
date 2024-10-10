@@ -161,3 +161,23 @@ y_pred = model.predict(x_train)
 train_score = accuracy_score(y_train, y_pred)
 print('train_score :',train_score)
 ##############################################################################################################################
+# Conclusion
+#############################################################################################################################
+# Logisticregression Score
+# train_score_logisticregression = 0.9642857142857143 
+# test_score_logisticregression = 1
+#------------------------------------------------------------------------------#
+# KNN Score
+Three KNN models were trained based on three different n_neighbors hyperparameters.
+# n_neighbors = 2  
+# n_neighbors = 2
+# n_neighbors = 2
+
+
+
+
+
+
+
+
+
