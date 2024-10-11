@@ -178,14 +178,14 @@ print('train_score :',train_score)
 # Three DT models were trained based on three different max_depth hyperparameters.
 # max_depth = 1  ------->  train_score : 0.6607142857142857 ,  test_score : 0.6842105263157895
 # max_depth = 6  ------->  train_score : 0.9732142857142857 ,  test_score : 1.0
-# max_depth = 10 ------->  train_score : 1 ,  test_score : 1.0
+# max_depth = 10 ------->  train_score : 1 ,                   test_score : 1.0
 # By increasing the max_depth, the train score is increased.
 #-------------------------------------------------------------------------------------------#
 # FR Score
 # Three FR models were trained based on three different n_estimators hyperparameters.
 # n_estimators = 4  ------->  train_score : 0.9821428571428571 ,  test_score : 1
-# n_estimators = 7  ------->  train_score : 1 ,  test_score : 1.0
-# n_estimators = 10 ------->  train_score : 1 ,  test_score : 1.0
+# n_estimators = 7  ------->  train_score : 1 ,                   test_score : 1.0
+# n_estimators = 10 ------->  train_score : 1 ,                   test_score : 1.0
 # By increasing the max_depth, the train score is increased.
 #-------------------------------------------------------------------------------------------#  
 
